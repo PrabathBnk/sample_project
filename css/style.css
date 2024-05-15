@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+/*
+body{
+    background-image: url("/img/bgImg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    background-color: rgb(223, 24, 197); 
+    color: white; 
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+p{
+    background-color: rgb(114, 14, 69);
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+#sample_id{
+    background-color: rgb(41, 18, 173); 
+    margin: 36px 25px -5px ;
+    padding: 5px 0px;
+    border: 2px solid rgb(84, 84, 255);
+    border-radius: 50px;
+}
+.sample_class{
+    background-color: rgb(24, 223, 24);
+    margin: 20px 50px 5px;
+    padding: 20px 30px;
+    border: 3px solid rgb(58, 255, 75);
+    border-radius: 25px;
+}
+#sample_id2{
+    background-color: rgb(41, 14, 114);
+    padding: 8px 20px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+.sample_class2{
+    background-color: rgb(14, 114, 22);
+    padding: 8px 41px;
+    text-align: justify;
+}*/
+
+.box1{
+    width: 90%;
+    height: 100px;
+    background-color: blue;
+    position: sticky;
+    top: 10px;
+    z-index: -1;
+}
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(60, 255, 0);
+}
+
